@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # specify any dependencies here; for example:
-  s.add_dependency "capistrano", "~> 3.4.1"
+  s.add_dependency "capistrano", "~> 3.7.0"
 end
